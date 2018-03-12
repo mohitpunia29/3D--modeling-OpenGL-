@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1509643022 source:c:\users\gsrana1\documents\computer science\csci173_projects\3d_modeling\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<Soil.h>
+	<fstream>
+	<windows.h>
+
+1488428297 c:\users\gsrana1\documents\computer science\csci173_projects\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1487967806 c:\users\gsrana1\documents\computer science\csci173_projects\common\include\soil.h
+
+1490739340 source:c:\users\gsrana1\documents\computer science\csci173_projects\3d_modeling\src\timer.cpp
+	"Timer.h"
+
+1490739365 c:\users\gsrana1\documents\computer science\csci173_projects\3d_modeling\include\timer.h
+	<time.h>
+
+1512023306 source:c:\users\vkmamidi\desktop\game development\3d_modeling\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<Soil.h>
+	<fstream>
+	<windows.h>
+
+1475118327 c:\users\vkmamidi\desktop\game development\common\include\gl\glut.h
+	<string.h>
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1488859843 c:\users\vkmamidi\desktop\game development\3d_modeling\include\soil.h
+
+1490735742 source:c:\users\vkmamidi\desktop\game development\3d_modeling\src\timer.cpp
+	"Timer.h"
+
+1490735766 c:\users\vkmamidi\desktop\game development\3d_modeling\include\timer.h
+	<time.h>
+
